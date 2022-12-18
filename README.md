@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning. <br>🖱️ I'm studing a Computer Sience degree at Universitat autonoma de Barcelona.<br>
+🌱 I'm currently learning. <br>🎓 I'm studing a Computer Sience degree at Universitat autonoma de Barcelona.<br>
 
 
 ## 🌐 Socials:
